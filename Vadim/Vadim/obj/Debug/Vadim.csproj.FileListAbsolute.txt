@@ -1,0 +1,11 @@
+D:\programs\Vadim\Vadim\bin\Debug\Vadim.exe.config
+D:\programs\Vadim\Vadim\bin\Debug\Vadim.exe
+D:\programs\Vadim\Vadim\bin\Debug\Vadim.pdb
+D:\programs\Vadim\Vadim\obj\Debug\Vadim.csproj.AssemblyReference.cache
+D:\programs\Vadim\Vadim\obj\Debug\Vadim.Form1.resources
+D:\programs\Vadim\Vadim\obj\Debug\Vadim.Form2.resources
+D:\programs\Vadim\Vadim\obj\Debug\Vadim.Properties.Resources.resources
+D:\programs\Vadim\Vadim\obj\Debug\Vadim.csproj.GenerateResource.cache
+D:\programs\Vadim\Vadim\obj\Debug\Vadim.csproj.CoreCompileInputs.cache
+D:\programs\Vadim\Vadim\obj\Debug\Vadim.exe
+D:\programs\Vadim\Vadim\obj\Debug\Vadim.pdb
