@@ -1,0 +1,166 @@
+html, body{
+  width: 100%;
+  background-color: white;
+}
+
+.menu{
+  text-align: center;
+  margin: 10px;
+  text-decoration: none;
+}
+
+.button-menu  {
+  text-decoration: none;
+  border: solid rgb(66, 172, 243);
+  border-radius: 10px;
+  padding: 3px;
+  color: black;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  transition: all, 500ms;
+}
+
+.button-menu:hover{
+  color: white;
+  background-color: rgb(66, 172, 243);
+}
+
+.Welcome-information{
+  background-color:rgb(66, 172, 243);
+  width: 750px;
+  height: 70px;
+  
+  margin-left: auto;
+  margin-right: auto;
+
+  border-radius: 10px;
+
+  text-align: center;
+
+ 
+
+  padding-left: 14px;
+  
+}
+
+.privet-h2{
+  text-align: center;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  color: white;
+
+}
+
+.privet-p{
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  color: white;
+}
+
+.text-courses{
+  
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  font-size: large;
+  color:rgb(66, 172, 243);
+}
+
+.courses{
+  text-align: center;
+}
+
+
+  .cards {
+    display: grid;
+    
+    grid-template-columns: repeat(auto-fill, 225px);
+    width: 100%;
+    max-width: 1000px; 
+    justify-content: center;
+    justify-items: center; 
+    column-gap: 30px;
+    row-gap: 40px; 
+    margin: 0 auto;
+  
+}
+
+.card {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  max-width: 300px;
+  margin: auto;
+  text-align: center;
+  transition: all 200ms;
+}
+
+.card:hover {
+  box-shadow: 4px 8px 16px rgba(0, 240, 240, 0.2);
+}
+
+.title{
+  color: rgb(66, 172, 243);
+  font-size: 18px;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.about{
+  width: 700px;
+  height: 350px;
+  background-color: rgb(66, 172, 243) ;
+
+  border-radius: 10px;
+  
+
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 30px;
+}
+
+.text-about{
+  text-align: center;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif; 
+  color: white;
+}
+
+
+.footer{
+  width: 1900px;
+  height: 300px;
+  background-color: black;
+}
+
+
+
+
+.Tachers-zogolovok{
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  color: white;
+}
+
+.creator {
+  color: white;
+  text-align: center;
+}
+
+.Social{
+  text-decoration: none;
+  color: white;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+}
+
+.footer{
+  background-color: gray;
+}
+
+.text-social{
+  text-decoration: none;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  color: white;
+}
+
+
+
+
+
+
+  
+ 
+  
+
+  

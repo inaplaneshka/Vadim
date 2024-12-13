@@ -1,0 +1,44 @@
+.new-news{
+    width: 600px;
+    height: 40px;
+    background-color: rgb(66, 172, 243);
+
+    margin-left: auto;
+    margin-right: auto;
+
+    text-align: center;
+
+    border-radius: 10px;
+}
+
+.zagolovok{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: white;
+}
+
+.news-1{
+    width: 600px;
+    height: 600px;
+    background-color: rgb(66, 172, 243);
+
+    border-radius: 10px;
+}
+
+.text-news{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: white;
+
+    padding: 3px;
+}
+
+.news-2{
+    width: 600px;
+    height: 500px;
+    background-color: rgb(66, 172, 243);
+
+    border-radius: 10px;
+}
+
+
+    
+
